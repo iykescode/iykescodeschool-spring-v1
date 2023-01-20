@@ -24,6 +24,5 @@ This is a school web app system that fully built on Springboot as backend and Th
 - Amazon Web Services
 - Thymeleaf
 - Spring Data JPA
-- MongoDB
 
 ### Integration
